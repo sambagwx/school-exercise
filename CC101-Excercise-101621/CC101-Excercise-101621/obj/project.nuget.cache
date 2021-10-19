@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNuewPNUZVoWra0/mTsH3pW+SA8R2qdY5u/VwDw7OwZEC1rjVtcvEzlXVvQbnWn4IinCVkC1cjkSiHm25vBt0A==",
+  "success": true,
+  "projectFilePath": "F:\\Programming\\Practice\\Praktis\\CC101-Excercise-101621\\CC101-Excercise-101621\\CC101-Excercise-101621.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sambag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CC101-Excercise-101621/1.0.0": {
+        "runtime": {
+          "CC101-Excercise-101621.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CC101-Excercise-101621/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

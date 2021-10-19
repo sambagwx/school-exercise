@@ -1,0 +1,14 @@
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.exe
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.deps.json
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.runtimeconfig.json
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.runtimeconfig.dev.json
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.dll
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\bin\Debug\netcoreapp3.1\CC101-Excercise-101621.pdb
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.csproj.AssemblyReference.cache
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.AssemblyInfoInputs.cache
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.AssemblyInfo.cs
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.csproj.CoreCompileInputs.cache
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.dll
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.pdb
+F:\Programming\Practice\Praktis\CC101-Excercise-101621\CC101-Excercise-101621\obj\Debug\netcoreapp3.1\CC101-Excercise-101621.genruntimeconfig.cache
